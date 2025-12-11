@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data & outputs (不要推到 GitHub)
+data/
+outputs/
+logs/
+*.log
+
+# Model weights
+*.pth
+*.pt
+
+# VS Code
+.vscode/
+
+
